@@ -1,5 +1,5 @@
 (() => {
-console.log('1111111');
+console.log('OrderFoodReminder Is Ready');
 window.setInterval(alarmHandler, 1000*60*60);
 })();
 
